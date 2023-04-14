@@ -7,7 +7,7 @@ import {
     StartUpTeam as SvgStartupteam,
     Search as SvgSearch,
 } from 'adesign-react/icons';
-import { FE_BASEURL } from '@config/client';
+import { FE_BASEURL } from '@config/index';
 import { global$ } from '@hooks/useGlobal/global';
 import { isObject, isString } from 'lodash';
 import TeamList from './teamList';

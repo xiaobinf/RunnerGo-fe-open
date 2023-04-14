@@ -1,6 +1,6 @@
 // 后端http接口地址
 export const RD_BaseURL = {
-    development: '开发环境地址',
+    development: 'http://localhost:8081',
     test: '测试环境地址',
     production: '线上环境地址',
 };

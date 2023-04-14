@@ -2,7 +2,7 @@
 // import { Message } from 'adesign-react';
 import * as jsondiffpatch from 'jsondiffpatch';
 import { REQUEST_DIST } from '@constants/confilct';
-import { FE_HOST } from '@config/client';
+import { FE_HOST } from '@config/index';
 import Mock from 'mockjs';
 import ATools from 'apipost-tools';
 import IATools from 'apipost-inside-tools';
